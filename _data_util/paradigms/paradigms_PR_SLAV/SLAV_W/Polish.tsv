@@ -1,0 +1,11 @@
+	NOM	AKK	DAT	GEN	INSTR	LOC	GEN-s	DAT-s	AKK-s
+1s	ja	mnie	mnie	mnie	mną	mnie	mię	mi	mię
+2s	ty	ciebie	tobie	ciebie	tobą	tobie	cię	ci	cię
+3s m	on	jego	jemu	jego	nim	nim	go	mu	go
+3s f	ona	nią	niej	niej	nią	niej	jej	jej	ją
+3s n	ono	je	jemu	jego	nim	nim	go	mu	je
+rs	-	siebie	sobie	siebie	sobą	sobie	się	sobie	się
+1p	my	nas	nam	nas	nami	nas	nas	nam	nas
+2p	wy	was	wam	was	wami	was	was	wam	was
+3p v	oni	nich	nim	nich	nimi	nich	ich	im	ich
+3p i	one	nie	nim	nich	nimi	nich	ich	im	je

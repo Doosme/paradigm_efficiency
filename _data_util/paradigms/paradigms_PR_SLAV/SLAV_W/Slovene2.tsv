@@ -1,0 +1,25 @@
+	NOM	AKK	DAT	GEN	INSTR	LOC	GEN-s	DAT-s	AKK-s
+1s	jaz	mene	mezi	mene	mano	meni	me	mi	me
+2s	ti	tebe	tebi	tebe	tabo	tebi	te	ti	te
+3s m	on	njega	njemu	njega	njim	njemu	ga	mu	ga
+3s f	ona	njo	nej	nje	njo	njej	je	ji	jo
+3s n	ono	njega	njemu	njega	njim	njemu	ga	mu	ga
+rs	-	sebe	sebi	sebe	sabo	sebi	se	si	se
+1p m	mi	nas	nam	nas	nami	nas	nas	nam	nas
+1p f	me	nas	nam	nas	nami	nas	nas	nam	nas
+1p n	me	nas	nam	nas	nami	nas	nas	nam	nas
+2p m	vi	vas	vam	vas	vami	vas	vas	vam	vas
+2p f	ve	vas	vam	vas	vami	vas	vas	vam	vas
+2p n	ve	vas	vam	vas	vami	vas	vas	vam	vas
+3p m	oni	nje	njim	njih	njimi	njih	jih	jim	jih
+3p f	one	nje	njim	njih	njimi	njih	jih	jim	jih
+3p n	ona	nje	njim	njih	njimi	njih	jih	jim	jih
+1d m	midva	naju	nama	nas	nama	nas	nas	nama	naju
+1d f	medve	naju	nama	nas	nama	nas	nas	nama	naju
+1d n	medve	naju	nama	nas	nama	nas	nas	nama	naju
+2d m	vidva	vaju	vama	vas	vama	vas	vas	vama	vaju
+2d f	vedve	vaju	vama	vas	vama	vas	vas	vama	vaju
+2d n	vedve	vaju	vama	vas	vama	vas	vas	vama	vaju
+3d m	onadva	njiju	njima	njiju	njima	njiju	jih	jima	ju
+3d f	onedve	njiju	njima	njiju	njima	njiju	jih	jima	ju
+3d n	onedve	njiju	njima	njiju	njima	njiju	jih	jima	ju
